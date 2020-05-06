@@ -1,2 +1,2 @@
 # React Boilerpalte
-Boilerplate for React, Webpack, Babel and ..., without create-react-app
+Boilerplate for React, Webpack, Babel and ..., without create-react-app.
